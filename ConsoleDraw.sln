@@ -1,7 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleDraw", "ConsoleDraw\ConsoleDraw.vcxproj", "{150F2496-4E00-4A87-B9B7-E038CF7C543D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{5EFB452E-619A-4837-B9C0-BDA3487F2D9C}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README = README
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
